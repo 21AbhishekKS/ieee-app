@@ -30,13 +30,6 @@ Check out the app on the Google Play Store: [IEEE JNNCE Events App](https://play
 
 
 
-## 🚀 Installation
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/21AbhishekKS/IEEE.git
-
 
 
 
