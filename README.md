@@ -1,6 +1,6 @@
 # 📱 IEEE JNNCE Events App
 
-Welcome to the **IEEE JNNCE Events App**! This mobile application, built using **Kotlin**, **Jetpack Compose**, and **Firebase**, keeps users up-to-date with the latest events, news, and announcements from IEEE JNNCE. Stay informed and never miss out on any important updates! 🎉
+Welcome to the **IEEE JNNCE Events App**! This mobile application, built using **Kotlin**, **Jetpack Compose**, and **Firebase**, keeps users up-to-date with the latest events, news and announcements from IEEE JNNCE. Stay informed and never miss out on any important updates! 🎉
 
 ## ✨ Features
 
